@@ -1,6 +1,6 @@
 ### 👋 Hi
 
-I'm Matthew (aka "equalize"). Husband, dad, programmer, internet traffic and load-balancing expert. My best and favoriate language is Golang. I love podcasts, cooking, fall weather, video games, being outdoors *and* being indoors. 
+I'm Matthew (aka "equalize"). Husband, dad, programmer, internet traffic and load-balancing expert. My best and favoriate language is Golang. I love gummy bears, podcasts, cooking, fall weather, video games, being outdoors *and* being indoors. 
 
 Some of my favorite things on the internet right now are:
 - 🦕 [ADHD Dinos](https://adhdinos.com)
