@@ -12,7 +12,7 @@ Some of my favorite things on the internet right now are:
 
 ### 🏗️ I'm currently working on
 
-Bootstrapping a tiny startup [Stanza Systems](https://www.stanza.systems)! I've spent the last few months [building sdk-go](https://github.com/StanzaSystems/sdk-go) (under [my work profile](https://github.com/sre-is-msg)), but lately I have been working with [Web Assembly](https://webassembly.org) and the various edge compute ecosystems.
+Reliability at [Temporal](https://github.com/temporalio)!
 
 ### 🌱 I’m currently learning
 
