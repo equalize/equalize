@@ -22,4 +22,4 @@ Hobbyist game development as a way to teach my kids programming. We started with
 
 Email is best. Please, no spam.
 
-equalize@gduck.com
+equalize@duck.com
