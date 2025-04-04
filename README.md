@@ -3,6 +3,7 @@
 I'm Matthew (aka "equalize"). Husband, dad, programmer, internet traffic and load-balancing expert. My best and favoriate language is Golang. I love gummy bears, podcasts, cooking, fall weather, video games, being outdoors *and* being indoors. 
 
 Some of my favorite things on the internet right now are:
+- 🐸 [Bufo Offers Bufo] (https://bufo.zone/)
 - 🦕 [ADHD Dinos](https://adhdinos.com)
 - 🍳 [Emoji Kitchen](https://emojikitchen.dev)
 - 🎹 [Ronald Jenkees](https://ronaldjenkees.bandcamp.com)
